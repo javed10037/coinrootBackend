@@ -1,0 +1,24 @@
+{
+  "name": "rootcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exchange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javed  khan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcrypt": "^2.0.1",
+    "bitcoin": "^3.0.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "litecoin": "^2.0.4",
+    "mongoose": "^5.0.16",
+    "mongoose-double": "0.0.1"
+  }
+}
